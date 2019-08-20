@@ -1,0 +1,124 @@
+      head {
+       background-color: #FCFCFC;
+       }
+
+      body {
+       background-color: #FCFCFC;
+       }
+
+
+      .maintext {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 14px;
+      font-weight: normal;
+      color: #000000;
+      text-decoration: none;
+      line-height: 1.5;
+      }
+
+      .titlebox{
+      background-color: #FCFCFC;
+      padding: 0px;
+      margin: 0px;
+      }
+
+      .box {
+      background-color: #FCFCFC;
+      border: 3px solid #990000;
+      margin: 10px;
+      margin-bottom: 25px;
+      padding: 10px;            
+      }
+
+      .button {
+            background-color: #FCFCFC;
+            border: 1px solid #00144d;
+            color: #00144d;
+            width: 100%;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+}
+
+      table {
+            table-layout: fixed;
+            font-family: Arial, Helvetica, sans-serif;   
+            background-color: #FCFCFC;
+      }
+
+      tr, td {
+            background-color: #FCFCFC;
+            font-family: Arial, Helvetica, sans-serif;   
+            border: 0px solid black;
+            padding: 0px;
+      }
+
+      ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0.5em;
+            }
+
+
+      li {
+            margin-bottom: 0.5em;
+      }
+
+      p {
+            padding: 0;
+            margin: 0.5em;
+      }
+
+      h1 {
+      font-size: 48px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #00144d;
+      }
+
+      h3 {
+      font-size: 22px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #00144d;
+      margin-top: 0;
+      margin-bottom: 0.2em;
+      } 
+
+      h4 {
+      font-size: 22px;
+      font-family: Arial, Helvetica, sans-serif;      
+      color: #000000;
+      margin-top: 0;
+      margin-bottom: 0;
+      }
+      
+
+
+      a {
+      text-decoration: underline;
+      color: #00144d;
+      }
+
+      a:visited {
+      color: #00144d;
+      }
+
+      a:hover {
+      color: #BB0000;
+      text-shadow: 0 0 1px #990000;
+      }
+
+      a:active {
+      color: #BB0000;
+      text-shadow: 0 0 1px #990000, 0 0 4px #00144d;
+      }
+
+      
+      footer {
+            background-color: #FCFCFC;
+            font-size: 10px;
+            color: #00144d;
+            font-family: "Courier New", Courier, monospace;
+      }
+
